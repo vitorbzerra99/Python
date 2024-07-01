@@ -4,7 +4,7 @@ Este repositório contém uma coleção de algoritmos básicos implementados em 
 
 ## Tópicos
 
-1. # Sintaxe Básica**
+1. ## Sintaxe Básica
    - Estrutura de um programa Python
    - Comentários
    - Identação
