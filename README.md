@@ -4,12 +4,12 @@ Este repositório contém uma coleção de algoritmos básicos implementados em 
 
 ## Tópicos
 
-1. ## Sintaxe Básica
+ ## Sintaxe Básica
    - Estrutura de um programa Python
    - Comentários
    - Identação
 
-3. # Variáveis**
+ ## Variáveis**
    - Declaração e atribuição de variáveis
    - Nomes de variáveis
 
