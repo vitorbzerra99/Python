@@ -4,50 +4,50 @@ Este repositório contém uma coleção de algoritmos básicos implementados em 
 
 ## Tópicos
 
-1. **Sintaxe Básica**
+1. ## Sintaxe Básica**
    - Estrutura de um programa Python
    - Comentários
    - Identação
 
-2. **Variáveis**
+3. **Variáveis**
    - Declaração e atribuição de variáveis
    - Nomes de variáveis
 
-3. **Tipos de Dados**
+4. **Tipos de Dados**
    - Números (int, float)
    - Strings
    - Booleanos
    - None
 
-4. **Condicionais**
+5. **Condicionais**
    - Estruturas if, elif, else
    - Operadores lógicos e de comparação
 
-5. **Conversão de Dados**
+6. **Conversão de Dados**
    - Conversão entre tipos de dados
    - Funções de conversão
 
-6. **Funções**
+7. **Funções**
    - Declaração de funções
    - Parâmetros e argumentos
    - Valor de retorno
 
-7. **Funções Lambda**
+8. **Funções Lambda**
    - Declaração e uso de funções lambda
 
-8. **Listas**
+9. **Listas**
    - Criação e manipulação de listas
    - Métodos de listas
 
-9. **Tuplas**
+10. **Tuplas**
    - Criação e manipulação de tuplas
    - Diferenças entre listas e tuplas
 
-10. **Sets**
+11. **Sets**
     - Criação e manipulação de sets
     - Operações com sets
 
-11. **Dicionários**
+12. **Dicionários**
     - Criação e manipulação de dicionários
     - Métodos de dicionários
    
