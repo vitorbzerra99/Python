@@ -1,11 +1,5 @@
-# Python-Codes-
-Claro! Aqui está um exemplo de README para seu repositório no GitHub:
 
----
-
-# Algoritmos Básicos em Python
-
-Bem-vindo ao repositório **Algoritmos Básicos em Python**! Este repositório contém uma coleção de algoritmos e exemplos de código para ajudar a entender e praticar conceitos fundamentais de programação em Python. 
+Bem-vindo ao repositório **Python Codes**! Este repositório contém uma coleção de algoritmos e exemplos de código para ajudar a entender e praticar conceitos fundamentais de programação em Python. 
 
 ## Tópicos abordados
 
