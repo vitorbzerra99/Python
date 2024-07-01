@@ -1,56 +1,57 @@
-Algoritmos Básicos em Python
-Bem-vindo ao repositório Algoritmos Básicos em Python! Este repositório contém uma coleção de algoritmos e exemplos de código para ajudar a entender e praticar conceitos fundamentais de programação em Python.
+# Algoritmos Básicos em Python
 
-Tópicos abordados
-Sintaxe Básica
-Variáveis
-Tipos de Dados
-Condicionais
-Conversão de Dados
-Funções
-Expressões Lambda
-Listas
-Tuplas
-Sets
-Dicionários
-Descrição dos Tópicos
-1. Sintaxe Básica
-Exemplos e explicações sobre a estrutura básica de um programa em Python, incluindo indentação, comentários e instruções básicas.
+Este repositório contém uma coleção de algoritmos básicos implementados em Python. É ideal para quem está começando a aprender a linguagem e deseja entender os conceitos fundamentais. Abaixo estão os tópicos abordados:
 
-2. Variáveis
-Como declarar e utilizar variáveis em Python, incluindo boas práticas de nomeação e escopo de variáveis.
+## Tópicos
 
-3. Tipos de Dados
-Introdução aos diferentes tipos de dados em Python, como inteiros, floats, strings, e booleanos, e como manipulá-los.
+1. **Sintaxe Básica**
+   - Estrutura de um programa Python
+   - Comentários
+   - Identação
 
-4. Condicionais
-Uso de estruturas condicionais (if, elif, else) para controle de fluxo com exemplos práticos.
+2. **Variáveis**
+   - Declaração e atribuição de variáveis
+   - Nomes de variáveis
 
-5. Conversão de Dados
-Métodos para converter entre diferentes tipos de dados em Python, como int(), float(), str(), e bool().
+3. **Tipos de Dados**
+   - Números (int, float)
+   - Strings
+   - Booleanos
+   - None
 
-6. Funções
-Como definir e chamar funções, parâmetros e retorno de valores, além de boas práticas de escrita de funções.
+4. **Condicionais**
+   - Estruturas if, elif, else
+   - Operadores lógicos e de comparação
 
-7. Expressões Lambda
-Uso de funções anônimas (lambda) para operações rápidas e concisas.
+5. **Conversão de Dados**
+   - Conversão entre tipos de dados
+   - Funções de conversão
 
-8. Listas
-Trabalhando com listas em Python: criação, acesso a elementos, métodos úteis e compreensão de listas.
+6. **Funções**
+   - Declaração de funções
+   - Parâmetros e argumentos
+   - Valor de retorno
 
-9. Tuplas
-Introdução às tuplas, suas características imutáveis, e quando usá-las em vez de listas.
+7. **Funções Lambda**
+   - Declaração e uso de funções lambda
 
-10. Sets
-Uso de sets para coleções de elementos únicos, operações com sets e métodos comuns.
+8. **Listas**
+   - Criação e manipulação de listas
+   - Métodos de listas
 
-11. Dicionários
-Trabalhando com dicionários: criação, acesso e manipulação de pares chave-valor, e métodos úteis.
+9. **Tuplas**
+   - Criação e manipulação de tuplas
+   - Diferenças entre listas e tuplas
 
-Como Contribuir
-Contribuições são bem-vindas! Se você tem exemplos adicionais, melhorias ou correções, sinta-se à vontade para abrir um pull request ou uma issue.
+10. **Sets**
+    - Criação e manipulação de sets
+    - Operações com sets
 
-
+11. **Dicionários**
+    - Criação e manipulação de dicionários
+    - Métodos de dicionários
+   
+      
 Contato
 Para dúvidas ou sugestões, entre em contato com vitorpbzerra@hotmail.com
 
