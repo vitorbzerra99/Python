@@ -1,6 +1,6 @@
 # Algoritmos Básicos em Python
 
-Este repositório contém uma coleção de algoritmos básicos implementados em Python. É ideal para quem está começando a aprender a linguagem e deseja entender os conceitos fundamentais. Abaixo estão os tópicos abordados:
+Este repositório contém uma coleção de algoritmos básicos implementados em Python. É ideal para quem está começando a aprender a linguagem e deseja entender os conceitos fundamentais. 
 
 ## Tópicos
 
